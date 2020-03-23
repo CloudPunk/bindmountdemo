@@ -9,5 +9,5 @@ pip==18.0
 pytz==2018.5 
 setuptools==40.2.0 
 six==1.11.0 
-Werkzeug==0.14.1 
+Werkzeug==0.15.3 
 wheel==0.31.1 
